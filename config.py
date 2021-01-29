@@ -1,0 +1,1 @@
+FIDAP_API_KEY = 'abcd1234'
